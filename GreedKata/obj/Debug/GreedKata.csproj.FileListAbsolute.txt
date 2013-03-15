@@ -1,0 +1,5 @@
+c:\users\dominick destasio\documents\visual studio 2012\Projects\GreedKata\GreedKata\obj\Debug\GreedKata.csprojResolveAssemblyReference.cache
+c:\users\dominick destasio\documents\visual studio 2012\Projects\GreedKata\GreedKata\bin\Debug\GreedKata.dll
+c:\users\dominick destasio\documents\visual studio 2012\Projects\GreedKata\GreedKata\bin\Debug\GreedKata.pdb
+c:\users\dominick destasio\documents\visual studio 2012\Projects\GreedKata\GreedKata\obj\Debug\GreedKata.dll
+c:\users\dominick destasio\documents\visual studio 2012\Projects\GreedKata\GreedKata\obj\Debug\GreedKata.pdb
